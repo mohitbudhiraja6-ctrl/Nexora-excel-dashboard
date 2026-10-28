@@ -43,7 +43,7 @@ How the project was created
 
 ![Dashboard Sketch](Dashboard-sketch.png.png)
 
-> This section is optional. Remove any images or subsections that are not relevant to your project.
+
 
 ## Dashboard Features
 
